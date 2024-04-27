@@ -1,2 +1,2 @@
 # ui-fonts
-웹 UI 폰트 모음 css
+woff2 Variable css
